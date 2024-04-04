@@ -1,43 +1,46 @@
 # Induced Response of Innate Immunity
 
-* How do phagocytes detect and destroy pathogens
-* Downstream inflammatory pathways
+Innate immunity consist of (molecular) pattern recognition receptors:
+- free receptors in serum (ficolins and histatins (complement))
+- membrane bound phagocytic
+- membrane bound signaling
+- cytoplasmic signaling
 
-ILCs (Innate Lymphoid Cells):
-    * NK Cells
+## Phagocytes are a diverse family of cells that kill microbes
 
-### Macrophages 
+### Many phagocytic cells
 
-Come from:
+*Macrophages* come from:
 
-- Progenitor cells in various tissues that produce macrophages throughout life of organism
+- Progenitor cells that enter various tissues _in the fetal state_ and produce macrophages throughout life of organism (!)
 - Monocytes circulate freely throughout blood or crawl endothelium
 
-Two molcules act on the same receptor to stimulate macrophage proliferation:
+Found in especially large numbers in connective tissues: gastrointenstinal
+submucosal layer, lungs (bronchi, alveoli), spleen (where they remove senescent
+cells).
 
-- Interleukin 34 (IL-34)
-- Macrophage colony stimulating factor (M-CSF)
+Examples include *microglial cells* in neurons and *Kupffer cells* in the
+liver, stimulated by IL-34 in both.
 
-Two types of monocytes.
+*Monocytes* come in two forms:
 
-"Classic" monocytes    
-    - 90% 
-    - Express CD14, a coreceptor for PRR
-    - Circulate freely in blood
+"Classic" monocytes, that differentiate into active monocytes and macrophages,
+circulating freely in blood. They make up **90%** and express CD14 only.
 
-"Patrolling" monocytes
-    - Express CD14 and CD16 (Fc receptor)
-    - Crawl along endothelium
+"Patrolling" monocytes that "crawl" along endothelium. They express both CD14
+and CD16. Do not differentiate.
 
-### Granulocytes
+*Granulocytes* include:
 
 - Neutrophil
 - Eosinophil
 - Basophil
 
-### Dendritic Cells
+*Dendritic cells*:
 
-Produce type I interferons
+- cDCs (classical) digest and expose microbes as antigen material for the
+adaptive immune system (the bridge between active and innate immunity)
+- pDCs (plasmacytoid) produce type I interferon
 
 ### Phagocytosis
 
@@ -47,52 +50,48 @@ Some chemistry terminology:
 
 * A radical is an atom, molecule, ion that has at least one unpaired valence electron
 * Red(uction)Ox(idation) reactions are thsoe that transfer electrons between species
-* Reactive Oxygen Species (ROS) are 
-* Superoxide ( (O_2)- ) is an example of an ROS
-* Nitric Oxide is an example of a radical
+* Reactive Oxygen Species (ROS) are:
+    * Superoxide ( (O_2)- )
+    * Nitric Oxide is an example of a radical
 
 Nitric oxide and superoxide are produced in the phagolysosome to neutralize
 microbes.
 
 ### Phagocytic Receptors
 
-Carbohydrate binding:
-* Dectin 1
-* Mannose Receptor
+* C-type lectin-like receptors (eg. Dectin 1)
+* Mannose Receptor (now believed to clear endogenous carbs that are released during inflammation)
+* Scavenger receptors (Some bind to low density lipoproteins (see notes on "foam cells" [here](./lipoproteins))
+* Complement / Fc receptors (connection to complement system and active immune system respectively)
 
-Scavenger receptors: 
-* Some bind to low density lipoproteins (see notes on "foam cells" [here](./lipoproteins) 
-* 
+### G-Protein-Coupled Receptors
 
-Complement receptor
-Fc receptor (constant domain of antibody chain)
+Class of ancient receptors that stimulate intercellular killing.
 
-### G Protein Coupled Receptors
+* fMet-Leu-Phe (fMLF) receptor (fMet initiates peptides in bacteria)
+* C5a receptor (cleaved C5 molecule from activated complement system)
 
-fMet-Leu-Phe (fMLF) Receptor and C5 Receptor both guide macrophage / neutrophil to
-source of infection (towards high concentration of stimulating ligand) 
+The receptor has 7 membrane spanning regions and *associate* with (do not
+"have") G-proteins - heterotrimeric units.  When a ligand binds to the
+receptor, it swaps a GDP with a GTP, and the G-protein splits into alpha and
+beta-gamma blocks.
 
-Protein synthesis is initiated with fMet in prokaryotes and not eukaryotes.
-*fMLF* binds to this amino acid(?)
+These subunits interact with *Rho family GTPase proteins*, Rac and Rho, that
+activate microbicidal behavior. These induce, among other things, the
+production of Reactive Oxygen Species (ROS).
 
-*C5 Receptor* binds to cleaved C5 from complement pathway.
+*NADPH oxidase*, also called phagocytic oxidase, produces superoxide (O_2-)
+when fully assembled, but requires recruitment of cytosolic components to
+membrane components. The cell then can use NADPH oxidase in a process called
+respiratory burst, to consume lots of oxygen and produce ROS. Neutrophils using
+lots of respiratory burst die and create pus.
 
+Genetic defficiency of NADPH cause release of less reactive oxygen species.
+Those with CGD are more prone to bacterial/fungal diseases.
 
-#### GPCR Mechanism
-
-GPCR is distinct from G Protein, which is a three subunit protein consisting of \alpha, \beta, \gamma subunits.
-
-#### Respiratory Burst
-
-Rapid consumption of oxygen by NADPH to produce ROS is called *respiratory burst*
-
-Activating the fMLF or complement receptor (the same receptors that encourage migration towards sites of infection) produces NADPH oxidase (phagocyte oxidase)
-
-Reactive Oxidative Species (ROS) kill microbes in phagocytic or extracellular environments
-
-#### Chronic Granulomatous Disease
-
-Genetic defficiency of NADPH cause release of less reactive oxygen species. Those with CGD are more prone to bacterial/fungal diseases.
+Neutrophils can also release their nuclear chromatin as web like traps called
+NETs (nuetrophil extracellular trap) to immobolize microbes for phagocytosis
+(!).
 
 ### Inflammation
 
@@ -101,6 +100,20 @@ Cytokines + chemokines facilitate inflammation.
 Four kinds of modification to blood vessels:
 
 - Vessels dialate
-- Endothelial cells express adhesion factors to trap circulating leukocytes
-- Endothelial cells become permissive and blood flows into tissue
+- Endothelial cells express adhesion factors to trap circulating leukocytes. (Leukocyte migration is called *extravasation*)
+- *Endothelial activation* - Endothelial cells become permissive and blood flows into tissue (edema)
 - Clotting
+
+What causes these inflammatory responses? Few things:
+
+- Lipid mediators of inflammation (prostaglandins, leukotrienes, PAF) produced
+by degraded membranes
+- chemokines + cytokines eg. TNF-alpha
+- C5a from complement
+
+If there is wounding, the *kinin cascade* and *coagulation cascade* are also
+spun up that regulate blood pressure, pain, coagulation.
+
+## Toll-like receptors
+
+
