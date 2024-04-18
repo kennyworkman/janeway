@@ -116,4 +116,47 @@ spun up that regulate blood pressure, pain, coagulation.
 
 ## Toll-like receptors
 
+Broad class of PRR (pattern recognition receptors)
 
+Toll was a receptor initially discovered to control dorso-ventral (front-back) patterning in
+fruit fly embryo. It was later discovered by Jules Hoffman that the same
+receptors released antimicrobial peptiedes.
+
+Important PAMPs:
+
+- lipoteichoic acid (gram positive)
+- lipoprotein (gram negative)
+- flagellin
+- unmethylated DNA
+
+### TLR Structure
+
+Each TLR has 20-25 Leucine Rich Repeats (LRR) that form a convex hook.
+They sometimes form dimers with eachother.
+
+Binding a ligand causes TLR to dimerize or causes a conformation change with a
+preformed dimer.
+
+All mamallian TLRs have an interleukin receptor in their tail. (Not really sure
+the role of this. Assume its involved in sigaling cascade)
+
+#### TLR 1 / 2 / 6
+
+Among other ligands recognized are:
+- lipoteichoic acid (gram negative)
+- Triacyl + diacyl lipoprotein (gram negative)
+
+These guys dimerize (1 <> 2; 2 <> 6)
+
+#### TLR 5
+
+Bind to a conserved (intact) flaggelin domain that is deep within flagella
+
+#### TLR 11 / 12
+
+Bind to whole proteins (many unknown) from protozoans and microbes. Expressed
+in mice.
+
+#### TLR 10
+
+Ligand unknown. Expressed in humans
