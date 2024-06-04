@@ -1,4 +1,3 @@
-
 ## Antigen Recognition by B-cell and T-cell receptors
 
 ### T cell antigen recognition
