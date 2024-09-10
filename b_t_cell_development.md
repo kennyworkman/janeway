@@ -73,5 +73,6 @@ peptide:MHC interaction.
 
 #### T cells that react strongly with self antigens are deleted in the thymus
 
-#### The strength of the signals for positive and negative selection must
-differ
+#### The strength of the signals for positive and negative selection must differ
+
+
