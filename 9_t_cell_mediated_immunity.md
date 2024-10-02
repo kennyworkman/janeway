@@ -16,7 +16,14 @@ T_reg
 
 ### Descriptions of Lymphoid Tissues
 
-*Spleen*
+#### *Spleen* captures antigens from the blood stream.
+
+- Central arteriole brings blood to the spleen.
+- Branching parts of arteriole end in the marginal sinus.
+- Marginal sinus separates arteriole from white pulp
+- White pulp is the lymphoid compartment:
+- B cell zone 
+- T cell zone wraps the arteriole on the outside of the marginal sinus (Periarteriol lymphoid sheath)
 
 *Lymph Nodes*
 
@@ -25,12 +32,30 @@ T_reg
 
 *Mucosa Associated Lymphoid Tissue* (MALT)
 
+B cells and T cells are seperated into distinct zones in all three lymphoid
+tissue types. Line epithelial tissues.
+
 ### The Development of Secondary Lymphoid Tissues is controlled by TNF proteins + Lymphoid Tissue Inducer Cells
+
+Lymphoid Tissue inducer Cells migrate from the bone marrow (where they are
+derived from HSPCs).
+
+They express TNF family proteins - LT_\alpha + LT_\beta. These chemokines cause
+stromal cells at the precurso sites of 2nd lymphoid tissue, eg. Peyer's
+patches, to expresss TNFRs.
+
+This causes stromal cells to express CXCL13, which recruits more lymphoid cells
+from the marrow.
 
 ### Chemokines direct T and B cells into their respective compartments
 
-CCL21, CCL19
+CCL21, CCL19 are the chemokines that attract T cells.
 CCL7, receptor expressed by T cells (and dendritic cells), responds to ^
+
+When they are recruited, the T-cells themselves start to express these
+chemokines
+
+CXCL13 (B Cell chemokine)
 
 ### Naive T Cells Migrate thorugh Secondary Lymphoid Tissue
 
@@ -45,19 +70,29 @@ Lymph ti
 3. Adhesion
 4. Diapedesis (enter)
 
+Selectin is a protein largely conserved with a different carbohydrate
+recognition motif.
+
+- P-sellectin (macrophages)
+- E-selectin (vascular endothelium)
+- L-selectin (naive T cells)
+
+Binds to vascular adressins (loose term for class of "adressing" molecules)
+found on the HEV - CD34 + GlyCAM-1.
+
 ### Activation of integrins by chemokines is responsible for the entry of lymphocytes into lymphoid tissue
 
 Properties of integrins:
 
-- Composed of alpha and beta chain
-- Subfamilies are defined
+- Composed of alpha and beta chain.
+- Subfamilies are defined beta chains.
 - Bind tightly to ligands after receiving signals that cause changes in their conformation
 
-T-cell integrin or *LFA-1* (Leukocyte Family Antigen 1).
-Binds to ICAM-[1-3].
+T-cell integrin or *LFA-1* (Leukocyte Family Antigen 1).  Binds to ICAM-[1-3].
+Is activated by proximity from selecting rolling
 
-CCL21 (the same that direct them to the correct compartment) causes integrins
-(like LFA-1 to change conformation). Once bound to ICAM, the lymphocyte
+CCL21 bound to the HEV (the same that direct them to the correct compartment) causes integrins
+(like LFA-1 to change conformation) when bound to . Once bound to ICAM, the lymphocyte
 migrates into the lymphoid tissue.
 
 ### T-cell responses are initiated in the secondary lymphoid organs by activated dendritic cells
@@ -141,3 +176,51 @@ recognition of MAMP
 
 Main function in lymph tissues is actually ingestion of stray pathogens /
 apoptotic lymphocytes to keep them from entering the blood.
+
+## Priming of naive T cells by pathogen activated dendritic cells
+
+### Cell adhesion molecules facilitate initial interaction of T cells with dendritic cells
+
+LFA / CD2 <> ICAMX
+When T-cell recognizes an MHC:peptide complex, LFA changes its conformation to
+bind more stably to ICAM.
+
+### Multiple signals are involved with the activation + proliferation of 
+
+- Activation (MHC:peptide)
+- Survival + Expansion (Co-stims)
+- Differentiation (Cytokines)
+
+B7 family ligase
+
+### CD28 co-stimulation of activated T-cells induce IL-2 and IL-2R
+
+Costims kick T-cell into G1 and expression of both the missing \gamma chain
+from IL-2R and IL-2 itself
+
+T_H cells express a more sensitive form of IL-2
+
+Recall, IL-2 is induced in 3 ways from costim:
+
+1. AP-1, NFAT from PI-3 Kinase activation downstream of ITAM
+2. Increase longevity of cytoplasm transcript
+3. PI-3 Kinase leads to Akt which prolongs the life of the cell
+
+
+### Proliferating naive T cells differentiate into effector T cells that do not require costims to act
+
+4-5 days of cell division transform into cells with specific responses upon
+recognition of antigen
+
+Best seen by CD8, cytotoxic, cells that should not require CD8 present on
+surface of eg. cell infected with a virus
+
+Change repertoir of expressed surface molecules
+- Reduce L-selectin -> no longer recirculate through lymph nodes
+- Express P/E-selectin on surface of vascular endothelium -> migrate from bloodstream to sites of infection
+
+### CD8 T cells are often activated by CD4 T cells
+
+CD8 effects are strong and require more costim than CD4 for priming
+
+CD4 T cells often bind to APC and induce expression of 41BB-L
