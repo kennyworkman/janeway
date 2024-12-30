@@ -101,3 +101,23 @@ Activate ILC3, releasing IL-17/IL-22, with following effect on environment:
 IL-17, pro-inflammatory, releasing further IL-1\beta, IL-6
 IL-22, induces antimicrobrial peptides
 
+## Effector T-cells
+
+### Changes in adhesion molecule and chemokine receptor expression
+
+T_FH:
+- up CXCR5 (home to follicles / B-cell zones)
+- down CCR7 (directs T-cells to T-cell zones)
+- down S1PR1
+
+Other effectors:
+- up S1PR1
+- down CCR7
+
+sphingosine 1-phosphate
+
+S1PR1 -> sphingosine 1-phosphate
+CCR7
+
+L-selectin
+glycosylated -> PSLG-1
