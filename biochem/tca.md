@@ -1,4 +1,0 @@
-Tricyclic Acid (TCA) Cycle
-===
-
-
