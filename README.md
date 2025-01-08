@@ -24,6 +24,9 @@ Janeway's Immunobiology
 11. [Integrated Dynamics of Innate + Adaptive Immunity](./11_innate_adaptive_integration.md)
 12. [Mucosal Immunity](./12_mucosal_immune_system.md)
 
+##
+
 ## Notes
 
 - [Lipoprotein Structure and Metabolism](./lipoproteins.md)
+- [Scattered notes on CRISPR systems](./crispr.md)
