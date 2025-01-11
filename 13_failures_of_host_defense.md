@@ -100,3 +100,192 @@ Mycobateria, Listeria
 
 - IL-17F / IL-17RA mutation -> susceptibility to _Staphylococcus aureusa_ and
 _Candida albicans_
+
+### Malfunctions with cytolytic pathway
+
+Shows the complexity and number of moving pieces with effective release of eg.
+perforin:
+
+1/ Acivation
+2/ Polarization (movement of endosome to membrane)
+3/ Docking
+4/ Priming (making content of membrane "fusion competent")
+5/ Fusion (of endosome with membrane)
+
+Defects with intracellular trafficking:
+
+- *Chediak-Higashi syndrome*
+- *Griscelli syndrome*
+
+Also cause issues with melanocytes (skin pigment) and vision (eye pigment) in
+many cases. Many
+
+The lack of active immunity stimulates macrophages.  Macrophages cause so much
+inflammation that they start eating blood cells
+
+*hemophagocytic lymphohemocytosis*
+
+### Failure to curb EBV
+
+- Epstein-Barr Virus infects 95% of people
+- Usually reduced to a latent state within B-cells by healthy NK / T / NKT response
+- *XLP* (*X-linked lymphoproliferative*) causes expansion of EPV infected B/T
+  cells + lack of antibodies
+
+T-cell <> antigen presenting cell
+NK-cell <> target cell
+*SLAM* mediates interaction
+dysfunctional SAP prevents SLAM
+
+### Dendritic cells
+
+T cells suffer
+
+The two population validated genetic targets are:
+
+### GATA2
+
+Kind of unclear but probably involved in maintaining stem cell progenitors.
+
+Has two forms: 
+
+- autosomal recessive (two bad copies)
+- autosomal dominant negative (one bad copy)
+
+### IRF8
+
+Specific defect with dendritic cells rather than progenitor. DNA binding
+transcription factor.
+
+### Complement
+
+### Recall pathways
+
+- Classic
+- Mannose binding lectin
+- Alternative (constant, low-rate "tick over" that provides blood surveillance)
+
+All converge to C3 cleavage and membrane attack components C5-9.
+
+### Different complement disease
+
+*C3* - increased susceptibility to pyogenic bacteria
+
+*Membrane attack proteins* (C5-C9) result almost exclusively in susceptibility
+  to Neisseria
+- Japan population - 1 / 2e6 -> 1/200 risk when these proteins are mutated
+
+*classic complement* - more _immune complexes_ (eg. clumps of matter in kidney? SLE)
+
+*MBL* - (common, ~5% of population) more risk of bacterial infection
+
+*control proteins* - complement covers self cells, eg. blood cells in
+paroxysmal nocturnal hemoglobinuria
+
+### Phagocytic cells
+
+These are generally bad. Four major types:
+
+1/ Development
+2/ Adhesion
+3/ Activation
+4/ Killing
+
+#### Development
+
+- Severe Congenital Neutropenia (SCN)
+- Cyclic Neutropenia
+
+With SCN, 3-5 * 10^9 per liter to like 0.5 * 10^9
+
+ELA2/*neutrophil elastase*. 
+- Mostly caused by defects in the "primary" granules (azurophilic granules,
+stained blue with Romanowsky/ methylene blue stains)
+- autosomal dominant mutation causes one form of SCN
+
+- Still don't undertand what causes the cycles (~21 day, 3 week periods?) in the
+cyclic flavor.
+
+Variety of autosomal recessive variants
+- Kostmann's disease
+
+Can also gain neutropenia with therapies - eg. chemo, cancer, aplastic anemia
+(condition of bone marrow that cause defficiency in immune cell production)
+OR part of other combined ID.
+
+#### Adhesion
+
+The migration to infection is a multi step process and any damaging any
+component can lead to problems
+
+Rolling -> Firm adhesion -> activation and "lock" of integrin
+
+LAD2 -> LAD1 -> LAD3
+
+1/ glycosylated ligands needed for selectin mediated rolling
+2/ missing piece of \beta integrin (CD18)
+3/ induction of high affinity state of \beta integrin
+
+#### Activation
+
+TLRs play central role. High amount of redundancy and remarkably only defects
+with TLR3 actually cause problems. Susceptibility to HSV and can cause brain
+swelling (encephalitis).
+
+Also other PRR (pattern recognizing receptors)
+
+#### Killing / Ingestion
+
+Defects in the ROS. Result in *chronic granulomatous disease*.
+
+Actually showed that oxides themselve are insufficeint to kill but create a low
+pH environment that allow true microbicidal peptides to kill.
+
+### Regulators of inflammation
+
+*Pyrin*:
+
+- apoptosis of inflammatory cells
+- inhibit secretion of IL-1\beta
+
+*Inflammasome*:
+
+Functions:
+- releases inflammatory cytokines, by processing eg. pro IL-1\beta into active form
+- causes programmed cell death, via cleaved caspase
+
+Structure:
+- NLRP3 is a "sensor" protein
+- forms a pinwheel structure
+
+Diseases:
+
+- *Familial Mediterranean Fever* - lack of pyrin. 
+- *pyogenic arthritis, pyoderma gangrenosum and acne* (PAPA) - another lack of pyrin
+- *TNF-receptor associated periodic syndrome* - lack of TNF receptor, high TNF-\alpha. Treated by TNF blockers, like those developed for RA.
+- *Muckle-Wells* / *familial cold autoinflammatory syndrome* (FCAS) - defects in NLRP3, causing inflammasome to be "on" more than it should
+
+
+### HSC transplantation
+
+You can get autoimmunity in two broad directions, mostly caused by MHC
+mismatches:
+
+- graft vs host: when immune cells from transplant attack host
+- host vs graft: where immune cells in the graft attack transplant
+
+Depletion by chemotherapy is common, but the extent or use of cytotoxic pre
+treatment depends on the disease. Some diseases require complete elimination of
+immune cells because they were already dysfunctional.
+
+(like XLA, the B-cell abnormality that leads to HSV)
+
+Somatic gene therapy began by the use of retroviruses to insert corrections.
+However, strong enhancers in genetic cargo misinserted upstream  of
+proto-oncogenes, causing leukemia.
+
+Broad corrections:
+
+- ex-vivo editing, driven by iPSC reprogramming to make new HSC
+- expression systems that can be shut down
+
