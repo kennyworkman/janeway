@@ -289,3 +289,33 @@ Broad corrections:
 - ex-vivo editing, driven by iPSC reprogramming to make new HSC
 - expression systems that can be shut down
 
+## How different pathogens evade immune system
+
+- HIV. virus
+- tuberculosis (Mycobacterium). bacteria.
+- malaria (Plasmodium falciparum). protozoa
+
+### Extracellular evasion strategies
+
+Gram negative. LPS. TLR-4.
+Gram positive. Peptidoglycan. TLR-2 + NOD1/NOD2.
+
+Outside:
+
+- Modifications to LPS lipid-A base/core. TLR-4 antagonism instead of agonism.
+- Modulation of peptidoglycan.
+- Carbohydrate shell to both evade TLR-2 and opsinisation/phagocytosis.
+- Significant carb variation on eg. Streptococcus
+- DNA rearrangement on E coli, Neiserria leading to carb / pillus variation
+
+Misc.:
+
+- Blocking C3 cleavage
+- *Protein A*. Fc-binding proteins that interfere with antibodies
+- *Factor H*. Prevent complement binding. Decorated on bacterial surfaces.
+
+### Intracellular evasion strategies
+
+- Prevention of phagolysosome formation
+- Escape phagosome
+- Resistance to microbicidal compounds
