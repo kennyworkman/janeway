@@ -319,3 +319,83 @@ Misc.:
 - Prevention of phagolysosome formation
 - Escape phagosome
 - Resistance to microbicidal compounds
+
+- Listeria escape into cytosol. Hijack actin push membrane bound packets to
+other cells.
+- Salmonellaa release factors to prevent destruction of their vacuole
+- Tuberculosis prevents fusion with phagosome
+
+Two types of lepropsy, with different response types:
+
+- Tuberculoid lepropsy
+- Lepromatous lepropsy
+
+### Protozoans
+
+Theme here is _evasion_
+
+- Trypanosoma brucei constantly cycle the glycoprotein they express allowing
+variants to survive under selection of antibody. Cycles of antigen clearance
+eventually lead to coma ("sleeping sickness")
+- Plasmodium moves from the liver to the blood cells, creating moving target
+for disease
+- Leishmania major prevents release of IL-12 by macrophage host, suppressing NK
+activation + T_H1 differentiation in type-1 response
+
+### RNA virus
+
+- plasmacytoid DCs + NK cells before T_H1 + CD8 T cells are ready
+- RNA polymerases have higher error rate -> viral chromosome is smaller
+- RNA chrom also tend to be segmented
+- *antigenic drift* - mutation of epitope
+- *antigenic shift* - exchange of segmented 
+
+Influenza - 
+Hepatitis C virus (HCV), leading cause of liver cirrhosis
+- CD81 binding glycosylated protein that is difficult to bind to
+
+### DNA virus
+
+- Lower mutation rates -> larger genomes -> more machinery to evade/subvert
+- Many enter latency allowing them to escape recognition for long periods with
+cyclic reactivation
+
+9/10 people are infected by the 5 common types of herpesvirus:
+
+- HSV-1 (mouth)
+- HSV-2 (genitals)
+- EBV (mononucleosis / "mono")
+- varicella-zoster
+- cytomegalovirus (CMV)
+
+#### Evasion Mechanisms
+
+*immunoevasins* are class of proteins preventing peptide display
+- Disrupting various steps of loading and presenting antigens (redirect to
+degradation in the ER)
+1/ TAP transport/peptide entry to ER 
+2/ movement of MHC to cell surface 
+3/ _dislocation_ (degradation of MHC)
+
+Inhibiting cytolysis by NK cells normally caused by lack of MHC expression with
+decoy MHCs.
+
+Cytokine disruption:
+
+- Decoy receptors
+- Receptor inhibitors
+- JAK/STAT inhibition
+- expression inhibition
+- cyotkine induced TF inhibition
+- direct antagonism of cytokine itself
+- decoy cytokines, eg. cmvIL-10
+
+Chemokine disruption:
+
+- Decoy receptors (herpesvirus + poxvirus display >40 homologs)
+
+CMV / HCV shown to increase PDL1.
+
+Recall cheomkine receptors are exclusively GPCR (7 transmembrane spanning).
+While cytokine receptors are single transmembrane protein (also associated with
+STAT).
