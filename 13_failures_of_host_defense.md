@@ -399,3 +399,55 @@ CMV / HCV shown to increase PDL1.
 Recall cheomkine receptors are exclusively GPCR (7 transmembrane spanning).
 While cytokine receptors are single transmembrane protein (also associated with
 STAT).
+
+## AIDS
+
+Zoonotic infection with at least four crossover events, two of which were in
+the early 1900s, likely from lowland gorillas or chimpanzees.
+
+HIV-1/HIV-2
+
+### Structure
+
+*3 major genes*
+
+_gag_
+
+_pol_ (alone encodes replication tools)
+- reverse transcriptase
+- integrase
+- viral protease
+
+_env_
+gp120 + gp41 (trimers alongside the envelope)
+
+*6 regulatory genes*
+Tat + Rev are essential for early replication
+Nef Vif Vpr Vpu are necessary for efficient viral production
+
+What determines if it enters latent or actively replicating state?
+Maybe determined by the state of the infected cell itself
+
+CD4 cells are long lived in contrast to macro + DCs. Difference in state there
+provide clues for quiescence
+
+### Replication mechanics
+
+*NFkB* + *NFAT* both used to induce expression of proviral genes (nuclear factor of activated T cells)
+Recall:
+- NFkB is common across most immune cell types
+- NFAT is specific to T cells and primarily induced by direct TCR stimulation
+
+(Bind directly to the promoters in the proviral LTR - these are functional!, not
+just scars for integrase recognition)
+
+*Tat* and *Rev* reveal important eurkaryotic replication components:
+- Tat phosphorylates RNA polymerase (in combination with cyclin T1 + CDK9), to
+enable the enzyme to produce full length transcripts
+- Rev is necessary to shuttle unspliced mRNA for later viral components out of
+the nucleus. It binds to motifs on later unspliced transcripts and recruits 
+
+The smaller regulatory genes:
+
+- decrease expression of surface proteins like MHC I/II, allowing invasion
+- prevent cytidine deaminase (APOBEC) from mutating transcript
