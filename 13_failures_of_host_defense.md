@@ -451,3 +451,106 @@ The smaller regulatory genes:
 
 - decrease expression of surface proteins like MHC I/II, allowing invasion
 - prevent cytidine deaminase (APOBEC) from mutating transcript
+
+### Where in the body replication happens
+
+Usually in sex fluid or blood. Free virus or within one of the cells listed.
+
+*genital + gastrointenstainal mucosae* are primary sites of sexual transmission
+- initial contact with memory T cells + DCs
+- spread to lymph
+- from the lymph the entire bloodstream
+
+### Tropism
+
+Variants have affinity for *CCR5* or *CXCR5*. (a la R5 or X4).
+
+Needs to get to the CD4 immune cells in the lamina propria.
+So *transcytosis* through epithelial cells + traveling through
+"interdigitating" DCs.
+
+- gp120 binds to proteins on both squamous and columnar epithelia
+    - squamous -> vagina mucous, penis foreskin, ectocervix, rectum, oropharynx,
+    esophagous
+    - columnar -> endocervix, rectum, upper GI
+- DC receptors:
+- langerin (CD207)
+- mannose receptor (CD206)
+- DC-SIGN
+
+
+1/ acute phase (influenza like illness
+- rapid replication of virus in mostly CCR5+ CD4+ T cells
+- population quickly declines
+- immune cell depletion in GALT leads to further infection (in particular IL-17
++ IL-22 no longer around to promote tight epithelia)
+2/ asymptomatic phase (~10 years)
+- seroconversion (first point antibodies detected)
+- 
+
+### Genetic resistance
+
+Non function variant of CCR5 in Caucasians confers some resistance (not cure
+but decreases rate of progress) and suggests some past selection. Some suggest
+small pox and bubonic plauge provided selection.
+
+### Development of AIDS
+
+After the initial depletion, T cells recover. But after the variable period,
+they start to decline again:
+
+- CD8 T cells kill virus infected T cells
+- latent virus awakening + killing T cells
+- disruption of new T cell development in thymus
+
+Immune activity does help. 
+Type 1 response (IFN-\gamma + granzyme B) inversely correlated with viral
+presence in blood ("viral load"). The irony is these are the very cells the
+virus kills off slowly...
+
+Anti-retrovirals are somewhat effective
+
+Neutralizing antibodies do develop but generally later (after first year). Vaccines
+therefore might be promising
+
+ADCC mediated (non-neutralizing) antibodies also recruit NK, macrophage,
+neutrophils.
+
+Virus mutates a lot, making antibody mediated response challenging
+
+### Reservoir in lymph tissues
+
+- Within CD4 T cell, macrophage, neutrophil (latter are shorter lived and not
+major holders)
+- Immune complexes actully form on the _surface_ of follicular DCs in lymph
+
+### Genetic resistance
+
+Some people (1 / 300) live with latent virus and never progress to AIDS.
+Strongest loci are HLA traits, presumably enhancing presentation of virus and
+preventing their silent latent state.
+
+### What kinds of diseases
+
+- Candida (oral fungal infection)
+- tuberculosis
+
+Cancers:
+- EBV induced lymphomas
+- Kaposi sarcoma (induced by HIV)
+
+In both cancers, the viruses don't actually introduce mutation but induce
+survival that select for oncogenetic mutation)
+
+### How do we treat it?
+
+Target:
+
+- reverse transcriptase
+- integrase
+- protease (required for creating functional product)
+
+Can prevent infection of new cells. But cannot remove integrated provirus.
+
+Combination therapy, eg. a cocktail of different inhibitors, called HAART.
+Showed success starting in 1995. Must take for life.
