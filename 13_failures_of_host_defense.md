@@ -550,7 +550,47 @@ Target:
 - integrase
 - protease (required for creating functional product)
 
+#### *HAART* (Highly active anti-retroviral therapy)
+
 Can prevent infection of new cells. But cannot remove integrated provirus.
 
 Combination therapy, eg. a cocktail of different inhibitors, called HAART.
 Showed success starting in 1995. Must take for life.
+
+- Releases T cells trapped in lymph tissue
+- Decreases CD4 cell killing by CD8 T cells
+- Somehow new T cells emerge from thymus
+
+Can detect these with TRECs (T cell receptor excision circles) - the little
+loops that form during somatic hypermutation.
+
+New drugs also target viral integration + cDNA creation. Do not deplete latent
+reservoir
+
+#### Targeting reservoirs
+
+- Try to tease out virus by activating provirus. (Clincal data does not show
+efficacy over HAART alone)
+- Cytokines (TNF-\alpha, IL-1) or histone acetylation to active proviral genes
+
+Berlin patient HCST to inject T cells with CCR5 mutation. Progression free for
+5 years. Risk of CXCR4-tropic variant mutation. Also impractical as population
+level cure.
+
+#### Vaccines are difficult
+
+Two types of vaccines:
+
+- Prophylactic. What variant to you target? If you do generate antibodies, it
+is hard for them to bind glycoproteins on HIV.
+- Already infected. If you increase antibody + CD8 T cell response, still hard to clear
+virus.
+
+Other vaccines use broken viruses of the type they are treating.
+Cannot do this with HIV because of high mutation rate + risk of recombination
+Use "canary" virus - AAV, vaccinia
+
+delivery gag,pol,env genes with canarypox vector:
+- only vaccine that has any efficacy
+- data shows type of response useful - non-neutralizing for ADCC. (this is good
+because neutralizing kind are hard to develop)
