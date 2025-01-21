@@ -168,3 +168,77 @@ Treatments:
 - IDO
 - IL-35 / Il-27 cyotkine therapy, which inhibit T_H2
 
+## Mechanisms
+
+1/ IgE bound to surface
+2/ Mast cells release factors:
+- histamine (from granules)
+- prostaglandin
+- leukotriene
+- PAF (platelet activating factor)
+3/ Physiological effect of factors
+4/ Recruitment of effector cells
+
+### Different IgE receptors
+
+*Immunoglobulin family Fc\epislonRI*
+
+Mast cells + basophils
+Activated with familiar tyrosine kinase -> ITAM -> Syk -> downstream effectors
+Increased IgE increases surface expression
+
+*C-type lectin family Fc\epsilonRII*
+
+Many immune + epithelial cell types, including T + B cells.
+
+### More on mast cells
+
+Mast cells => IgE inflammatory responses 
+(Kit knockout mice do not produce these responses)
+
+Activated by these factors:
+*stem-cell factor* / Kit ligand
+IL-3
+IL-4 / IL-9 (type 2)
+
+#### Granule contents
+
+Degranulation is an important component of function:
+
+1/ histamine (short lived vasoactive amine)
+2/ serine esterase (protease) -> tryptase, chymase, cathepsin G
+
+- Histamine acts through 4 GPCRs.
+- Histamine causes blood flow + vessel permeability. 
+- Leads to edema + local inflammation.
+
+What do the proteases do? Activate metalloproteinase that destroy venom.
+Also break down tissue...
+
+#### Types
+
+Location and protease content 
+
+*MC_T* -> tryptase, in mucosal epithelia (lamina propria)
+*MC_CT* -> tryptase + chymase, in submucosa (deeper than the lamina propria)
+
+#### Eicosanoids
+
+Distinct from granule contents. These are lipid mediators synthesized from
+common pathway.
+
+AA cleaved from membrane:
+
+- *Cyclooxygenase* -> prostaglandin, thromboxane
+- *Lipooxygenase* -> leukotriene
+
+Prostaglandin is important in asthma 
+C4,D4,E4 leukotrienes sustain inflammation
+
+### Cytokines
+
+TNF-\alpha - some stored and some synthesized
+Recruit immune cells (and cause epithelial cells to express adhesion molecules,
+helping recruitment)
+
+IL-4 -> Type II
