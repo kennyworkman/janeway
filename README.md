@@ -24,6 +24,16 @@ Janeway's Immunobiology
 11. [Integrated Dynamics of Innate + Adaptive Immunity](./11_innate_adaptive_integration.md)
 12. [Mucosal Immunity](./12_mucosal_immune_system.md)
 
+## Immune System in Health and Disease
+
+13. [Failures of Host Defense Mechanisms](./13_failures_of_host_defense.md) 
+14. [Allergy and Allergic Disease](./14_allergy_and_allergic_defense.md)
+15. [Autoimmunity and Transplantation](./15_autoimmunity_transplantation.md)
+16. Manipulation of the Immune Response
+
+##
+
 ## Notes
 
 - [Lipoprotein Structure and Metabolism](./lipoproteins.md)
+- [Scattered notes on CRISPR systems](./crispr.md)
