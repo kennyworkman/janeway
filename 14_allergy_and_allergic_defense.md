@@ -235,10 +235,278 @@ AA cleaved from membrane:
 Prostaglandin is important in asthma 
 C4,D4,E4 leukotrienes sustain inflammation
 
-### Cytokines
+#### Cytokines
 
 TNF-\alpha - some stored and some synthesized
 Recruit immune cells (and cause epithelial cells to express adhesion molecules,
 helping recruitment)
 
 IL-4 -> Type II
+
+### Eosinophils
+
+- <6% of cells in healthy people
+- IgG, IgE, CR1 + CR3 receptors
+- Two main effector functions:
+- granule contents - proteases and ROS
+- synthesize mediators (prostaglandin, leukotriene + cytokines)
+
+How do they cause allergies?
+
+- Kill T_H1 cells (IDO)G. T_H2 expansion might be in part explained by this.
+
+- Located in submucosa
+
+- Few are present without infection
+
+Production and migration are distinct.
+
+- GM-CSF + IL-5 cause _production_ in bone marrow
+- _Migration_ governed by *eotaxins*: CCL11, CCL24, CCL26
+
+Mice can have eosinophilia systemically with just lots of IL-5.
+
+CCR3 (eotaxin receptor) is quite promiscuous and can bind to other chemokines
+
+Basophils:
+- similar growth factors
+- reciprocal control by cytokines
+- eosinophil *major basic protein* 
+
+### Effects of IgE response
+
+Synthetic introduction of antigen (intradermal antigen challenge) in lab leads
+to two distinct stages:
+
+*Immediate reaction* is characterized primarily by histamin acting on
+different tissues:
+
+Airway
+- vascular permeability + blood flow => edema
+- edema + smooth muscle contraction => airway narrowing
+
+Vascular
+- extravasation (leakage of fluid from blood vessel) -> edema
+- reflex vasodilation (increase of blood vessel size from drug). Acts on nerve
+endings, but effect is on vessels. *wheal-and-flare reaction* (wheal is swollen
+bump)
+
+*Late-stage reaction* occurs 3-9 hours. Cellular recruitment and continued
+synthesis of factors
+
+(Again primarily caused by synthetic high-dose antigen and unlikely to happen
+naturally)
+
+*Chronic allergic inflammation* is the natural long timeline allergy state
+
+Persistent T_H2 response.
+
+T_H2 cells release *calcitonin* + *VEGF* with effect on blood vessels.
+
+- Can actually change size and number of cells (hypertrophy + hyperplasia of
+_smoooth muscle_ cells respectively
+- *airway tissue remodeling*
+
+Think of allergic response as starting from the site where mast cells
+degranulate.
+
+### Anaphylaxis
+
+Mast cells are often associated with blood vessels
+Widespread release of eg. histamine on many vessels is *anaphylaxis*
+
+Can also be caused by autoantibody, to IgE or Fc\epsilon, 
+
+Symptoms:
+
+- *Utricaria* - distributed version of wheal + flare
+- *Anaphylactic shock* - lowered blood pressure + constricted airways
+- Can be treated with epinephrine or \beta-adrenergic receptor modulation,
+relaxing blood vessels
+
+Penicillin and structurally related drugs can cause anaphylaxis.
+
+Hapten - \beta-lactam ring (usually essential for antimicrobial activity) binds
+to host proteins to form covalent conjuages
+
+- T cell response from self-protein conjugates
+- B cell response (from penicillin conjuages activating BCR)
+- Can cross link IgE on Mast cells
+
+### Asthma + Rhinitis?
+
+- allergic rhinitis
+- allergic conjuctivitis
+- allergic asthma
+
+All caused by mast cell degranulation in response to allergens (within) pollen.
+Edema
+Mucus (rich in recruited lymphocytes)
+
+Characteristiscs of chronic inflammation:
+
+- hypertrophy
+- hyperplasia
+- eventually fibrosis
+
+Why is fibrosis a bigger deal than smooth muscle cell remodeling?
+
+- more permanent
+- does not respond to asthma medication
+- progressive, positive feedback
+
+There are different asthma endotypes (different cell types + molecules):
+
+- common allergic asthma
+- exercise induced asthma
+- neutrophil predominant
+- eosinophil predominant
+- steroid resistant sever
+
+How do you get which type? Allergen sensitized with + genetic factors
+
+#### Mechanisms of common asthma
+
+- Familiar mast thing
+
+Epithelial cell stimulation directly by TLRs: 
+- *IL-25, IL-33* (This explains where
+some of the type 2 cytokines even come from)
+- CCL5 / CCL11 <> CCR3 on T_H2, eosinophil, basophil
+- ILCs activated and express the familiar array (4, 5, 9 , 13)
+
+Important facts about this biology:
+- TGF-\beta helps drive airway remodeling of epithelial cells
+- IL-9/IL-13 leads to goblet cell metaplasia of epithelial cells (replacable
+differentiation into mature cell type)
+- iNKT cells (CD1d-restricted invariant) somehow are involved
+
+You can actually get allergic disease without allergen. Shown with mice
+defficient in T_H2.
+
+Similarly chronic inflammation triggered by allergen can continue by other
+factors:
+
+- smoke, sulfur dioxide
+- virus, bacterial infections of respiratory tract
+
+Rhinovirus infection is main source of asthma hospitilizations / death
+
+#### Food allergies
+
+- IgE mediated
+- non-IgE mediated (celiac)
+- intolerance (metabolic)
+- idiosyncratic (unknown)
+
+Peanut allergies
+Mast cell in gut -> fluid movement + muscle contraction
+Systemic effects lead to urticaria, asthma, systemic anaphylaxis
+
+Because allergens are generally pepsin resistant, adults who suppress this with
+(eg. antacids) may have late onset allergies
+
+## Non IgE Mediated Allergies
+
+Type 1 and Type 3
+
+These aren't really allergic diseases?
+
+### Drugs covalently bind to cells
+
+Platelets - *thrombocytopenia*
+Red blood cells - *hemolytic anemia*
+
+Cleared by Fc\gamma receptors from macrophages in the spleen.
+
+### Immediate antibody mediated hypersensitivity
+
+Conserved steps:
+
+1/ Antibodies clump with antigen
+2/ Complement (*C5a* + *C3a*) are activated
+3/ Leukocytes w/ *Fc\gammaRIII* + CR activated; widespread tissue damage.
+
+Soluble antigens can lead to large clumps of immune complexes:
+- large clumps are cleared by monocytes (by fixing complement)
+- the smaller ones get deposited on blood vessel and cause damage
+
+*Arthus reaction*
+
+Local immune response to spot in skin where antigen injected.
+
+*Serum sickness*
+
+- Originated when immunized horse serum was used to treat disease like
+_Streptococcus pneumoniae_
+- 7-10 days after injection for class switched IgG reaction to occur
+(Normal class switching takes 3-5 days. Antigen processing + multiple discrete
+antigen recognition is involved in lengthening the timeline.)
+- Same steps as above, leading to mast cell degranulation
+
+#### Serum sickness in monoclonal tx
+
+Can result from improperly humanized monoclonals (eg. in anti-TNF-\alpha HUMIRA
+for RA).
+
+Humanization fails for patients that have strange allotypes (constant region
+variations). One effect is more rapid clearance of tx and reduced effect.
+
+- Bacterial reaction persist and continue to produce antigen
+- Air pathogen exposure from dust/mold -> *farmer's lung*
+
+### Delayed-type cell mediated hypersensitivity
+
+T_H1 + CD8 T cells
+
+*Mantoux test* - test for tuberculosis. Inject small amounts of tuberculin.
+Elicits local type I response.
+
+#### *allergic contact dermatitis*
+
+Like IgE, there are two phases: 1/ sensitization and 2/ elicitation
+
+Langerhan cells, specialized APC / DCs, mediate sensitization in cutaneous
+allergies.
+
+T_H1 response cyotkines in detail:
+
+- IFN-\gamma: Macrophage activation + adhesion molecule expression on blood vessels
+- TNF-\alpha + lymphotoxin: Local tissue destruction. Also adhesion on vessels.
+- Il-3/GM-CSF: monocyte production in bone marrow
+
+(*haptens* - small proteins that are immunogenic after being bound to carrier
+proteins. Eg. penicillin or )
+
+Poison oak causes CD8 mediated skin dermatitis with soluble proteins that pass
+through membrane + present on MHCI. Comes from _urushiol oil_.
+
+Insect bites can cause delayed-type hypersensitivity - itchy bump. (Also cause
+urticaria, swelling, anaphylactic shock from immediate hypersensitivity)
+
+Metal ions (divalent cations)
+
+#### Examples of n-valent cations
+
+Univalent cations: Have a charge of 1, such as the Cs+ cation
+Divalent cations: Have a charge of 2, such as the Ca2+ cation
+Trivalent cations: Have a charge of 3, such as the Fe3+ cation
+
+### Celiac disease
+
+Both allergic and autoimmune disease.
+
+Pathology:
+- Loss of finger-like villi formed by epithelial cells
+- Hyperplasia of crypt cells at elbows of epithelial folds
+
+\alpha-gliadin -> deamidation by transglutaminase (tTG) -> binds to HLA-DQ2
+
+Autoantibodies found against tTG but don't seem to do anything.
+
+Why don't we get oral tolerance, eg. T_regs. Not all HLA-DQ2 variant patients
+develop celiac disease so not that molecule alone. 
+- other unknown genetic factors (down syndrome 6x more likely)
+- gliadin peptides might cause epithelial cells to release IL-15 + express
+MIC-A -> NKG2D mediated CD8 T cell -> intenstinal damage + more causal CD4 T
+cell activation
