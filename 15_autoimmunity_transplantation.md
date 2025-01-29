@@ -178,7 +178,8 @@ Classified based on antigen and main mechanism
 
 ### Autoantibodies kill blood cells
 
-- IgG and IgM bind to Fc and CR
+- Auto IgG and IgM bind to Fc and CR
+
 - Rapidly cleared by *mononuclear-macrophage phagocytic system* in spleen
 - or lysed by membrane attack complex of complement
 - Autoantibodies against surface proteins (eg. autoimmune thrombocytopenic
@@ -190,3 +191,89 @@ Tx strategies:
 - _Removal of the spleen_ to prevent macrophage clearance is a common tx strategy
 - Also introduction of lots of nonspecific IgG (IVIG) - intravenous
   immunoglobulin.
+
+### Fixation of complement
+
+- Can directly lyse cells
+- Sublytic doses also causes problems:
+- cytokine release
+- respiratory burst
+- arachidonic acid cleavage
+
+*C5a itself is a chemokine*
+
+#### Nucleated cells are more resistant to complement lysis
+
+Why?
+
+In general, unnucleated cells lack metabolic machinery (mitochondria + nucleus) to make new proteins.
+
+1/ Complement regulating surface proteins
+CD55 - DAF (decay-accelerating factor), accelerates C3 convertase decay
+CD59 - protectin (), binds c8/c9 components of membrane attack complex (MAC)
+
+2/ Can repair some membrane damange caused by MAC
+
+### Autoantibodies block receptors
+
+Examples of either:
+
+Agonist (*Grave's disease*). Thyroid-stimulating hormone (TSH) from pituitary
+is controlled by thyroid hormone. Autoantibodies directly stimulate thyroid
+receptor and prevent negative feedback.
+
+Antagonist (*myasthenia gravis*). Muscle contraction inhibited by autoantibody
+inhibition of nicotinic acetylcholine.
+
+### Autoantibodies cause damage in ECM
+
+- Goodpasture's syndrome - type IV (basement membrane) collagen in renal
+glomeruli and pulmonary alveoli
+
+Immune complexes:
+- serum sickness (overwhlemed by immune complex)
+- bacterial endocarditis (lodged in cardiac valve, unable to kill source)
+- *mixed essential cryoglobulinemia*
+- SLE
+
+SLE main steps:
+
+1/ Autoantibodies against proteins in nucleated cells 
+(
+3 types: 
+- nucleosome subunits of chromatin
+- spliceosome
+- ribonucleoprotein complex
+)
+2/ Complexes traffic to renal glomerular basement membrane
+3/ Poor clearance (due to dysfunction of complement *proteins* and lack of
+opsonization)
+
+*Cryoglobulins*, soluble antibodies because of hydrophobic regions or clumping,
+that precipitate in joints/tissue.
+
+### T cells in autoimmunity
+
+Hard to study because adoptive transfer in people require MHC matching
+
+Culture requires the exact tissue from patient presenting problematic antigen
+
+#### MS
+
+Multiple sclerosis is a response against nervous system myelin angitens:
+
+- myelin basic protein MBP
+- proteolipid protein PLP
+- myelin oligodendrocyte glycoprotein MOG
+
+These live on oligodendrocytes (support glial cell that maintain myelin
+sheath).
+
+1/ Initial antigen stimulus
+2/ BBB is "opened up". Epithelial cells lose tight junctures in response to
+inflammation and express adhesion molecules
+3/ Rolling and entering (diapedesis)
+4/ Re-encounter antigen
+
+The plaques come from combination of demylenation and astrocyte proliferation /
+ECM production.
