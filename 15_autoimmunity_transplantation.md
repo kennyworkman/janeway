@@ -277,3 +277,221 @@ inflammation and express adhesion molecules
 
 The plaques come from combination of demylenation and astrocyte proliferation /
 ECM production.
+
+## Genetic and Env Basis of Autoimmunity
+
+### Certainly genetic component
+
+For whatever reason, female occurence higher
+
+GWAS identifies causal variants
+
+### Classifying causaul variants
+
+- autoantigen availability or clearance
+- apoptosis (regulate immune response) (FAS)
+- signaling thresholds for T cell activation (PD-1 / CTLA-4).
+- cytokines
+- costims
+- T_regs (Foxp3 mutation)
+
+### Monogenic autoimmune disorders
+
+T_reg:
+
+- Foxp3
+- CD25
+
+Monogenic Fas mutations
+
+### Role of MHC in diabetes
+
+HLA-DRX alleles linked to type 1 diabetes
+
+Genetic linkage of DR3/DR4 to DQ\beta (the actual gene with offending
+polymorphism)
+
+Actually great case study for the loose binding hypothesis for T cell
+development
+
+TODO: revisit dual nature of autoreactive display
+
+Two hypothesis for HLA mutation and diabetes
+
+1/ Inability to induce self tolerance during negative selection (from DC
+presentation)
+2/ Or inability to create slightly autoreactive T cells that pass positive
+selection (these slightly autoreactive T cells are then assumed to have a
+regulatory function?)
+
+### Chron's Disease
+
+Think about layers of innate immunitity between commensal bacteria and inner
+layers of epithelia:
+
+- mucus from goblets
+- epithelial junction 
+- antimicrobial peptides from _Paneth cells_
+- phagocytic macrophages
+- T_regs
+
+With CD, you see dysfunction in one or more layers. Indirectly, this stimulates
+chronic T_H inflammation.
+
+
+1/ NOD2 is an intracellular receptor that triggers inflammation (and release of
+antimicrobial granules in Paneth) 
+2/ CXCL8 dysfunction + lack of neutrophil accumulation
+3/ Autophagy genes, ATG16L1 / IRGM, prevent clearance of swallowed microbes
+
+Can also get upregulation of T_H response directly (eg. mutation in IL-23 for
+T_H17)
+
+### Non genetic covariates
+
+- Vitamin D levels (higher incidence of autoimmunity in Northern Hemisphere).
+Suppress T_H17 levels.
+- 'hygiene hypothesis' - exposure to microbes
+
+### Mechanism of infection inducing autoimmune reaction
+
+General activation of lymphocytes from different (pathogenic) antigens
+Tissue damage released stored self antigens
+
+### Molecular mimicry can induce autoimmune disease from infection
+
+- Mice can develop diabetes after viral infection
+
+Why are the self-reactive lymphocytes there?
+
+- Some escape deletion as described previously
+- Antigen present in much greater quantity activates these normally ignorant
+cells
+
+- *Autoimmune hemolytic anemia* follows _Mycoplasma blood infection_
+- *Rheumatic fever*. Similar epitopes of _Streptococcus pyogenes_ to self leads to antibody + T
+cell mediated tissue damage, including heart valves + kidney
+- *Lyme disease*. Borrelia burgdorferi. Infection followed by Lyme arthritis.
+
+### Drugs
+
+- Procainamide, for heart arrhythmias, induces autoantibodies
+- Several lead to *autoimmune hemolytic anemia*
+- Heavy metals, gold + mercury (mostly through haptenization)
+
+### Stochastic cause
+
+Precise timing of infection with chance lymphocyte clones might be all needed.
+The pathogen / antigen might be different but lead to same disease.
+
+## Alloantigens + Transplant Rejection
+
+- MHC mismatches almost always trigger a response
+- immunosuppression + transplantation medication helps
+- blood is less problematic because express small amounts of MHC I (and no II)
+- To avoid, antibody destruction, patients must be matched for ABO and Rh group
+antigens
+
+### Graft rejection is mediated by T cells
+
+Basic terminology:
+
+- autograft - from same organism
+- syngeneic graft - from genetically identical organism
+- allograft - from different organism
+
+- *acute rejection* occurs _10-13_ days after transplantation. (in contrast to
+hyperacute or chronic). 
+- T cell role clear in lack of response in nude mice. Acute rejection can be
+stimulated in nude mice by adoptive transfer.
+- *accelerated rejection* occurs 6-8 days second time from clonal expansion of
+primed memory T cells
+
+### Rejection mostly caused by MHC mismatch
+
+Actually origin of molecule name. Significant portion of T cell repertoire are
+reactive against nonself MHC
+
+Immunosuppression makes MHC matching irrelevant for non bone marrow allografts
+(?). 
+
+Even HLA matched relatives experience rejection from non-MHC proteins. 
+
+Success in clinical transplants result of immunosuppression.
+
+### Minor histocompatibility antigens
+
+The set of proteins that cause graft reactions that are not MHC are called
+_minor histocompatibility antigens_.
+
+*H-Y* responses come from proteins on Y chromosome (eg. _Smcy_). Male anti-female response
+(but not vice versa)
+
+Most are autosomal and have yet to be characterized.
+
+### Two ways of alloantigen presentation
+
+1/ Donor origin APCs migrate to lymph tissue. *Direct allorecognition*
+Interestingly, migrating cells move through blood not lymphatics because solid
+organ allografts disrupt functioning lymph system.
+
+2/ Uptake into recipient's own APCs. *Indirect allorecognition*. Key here is
+self MHC molecules do the presenting.
+
+### Hyperacute graft rejection from antibodies
+
+Complement dependent reaction occurs in minutes
+
+- *ABO-matching*
+- *cross matching* - looking for reactivity against donor white blood cells
+
+Antibodies occlude vessels connecting organ graft to rest of body, leading to
+purple color and enlarged state.
+
+Some transplanted organs less susceptible to ABO incompat + cross-matching
+
+- *\alpha-Gal*, surface carbohydrate
+- hyperacute rejection occurs quickly with xenografts
+- exacerbated because complement regulatory proteins (DAF, CD59, etc.) work
+less efficiently across species boundaries
+
+### Why do allografts have an expiration date?
+
+*chronic allograft vasculopathy*:
+- concentric arteriosclerosis
+- hypoperfusion (cut off nutrients, blood)
+
+Caused by recurring rejection events by antibodies + T cells
+
+Some specific examples of tissue destruction:
+- 'vanishing bile duct syndrome' in liver
+- 'bronciolitis obliterans', accumulation of scar tissue in bronchioles
+
+Other examples of failure causes:
+
+- ischemia-reperfusion injury. Sudden blood flow can lead to tissue damage
+- viral infections from immmunosuppression
+- same disease in allograft as original organ
+
+### Organ transplants are now routine
+
+Kidney first transplanted organ in 1950s (between twins).
+
+- Kidney (17.8K)
+- Liver (6.7K)
+- Heart (2.7K)
+
+Cornea (45K
+HSC (20K)
+
+Corneal transplants are particularly successful because of 
+lack of vasculature: harder for lymphocytes to move around and react to
+antigens.
+
+Organ availability
+Progression of same disease
+Immunosuppression can lead to infection or cancer
+
+1/ More targeted immunosuppression that does not lead to cancer 
+2/ Graft tolerance
+3/ Xenografts
