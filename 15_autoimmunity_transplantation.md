@@ -495,3 +495,79 @@ Immunosuppression can lead to infection or cancer
 1/ More targeted immunosuppression that does not lead to cancer 
 2/ Graft tolerance
 3/ Xenografts
+
+#### Some autoimmune drugs
+
+*Cell surface antibodies*
+- Rabbit anti-thymocyte globulin (rATG). Polyclonal molcules made in rabbits
+against human T cells.
+- anti-CD52 (_alemtuzumab_). Mature lymphocytes (eg. T / B / NK) marker for
+depletion.
+- anti-CD3 (_muromonab_). Binds to TCR-CD3 complex for depletion.
+- anti-CD25 (_basiliximab_). IL-2 mediated proliferation
+(proliferation/survival pathway).
+- CTLA-4-Ig Fusion (_belatacept_). CTLA-4 binds B7, competing with CD28 on T
+cells. Ig region is for stability of long half-life in blood.
+
+
+Target/Mechanism: Soluble CTLA-4 linked to an Ig Fc region; binds B7 (CD80/86) on antigen-presenting cells, blocking the CD28 co-stimulatory signal to T cells.
+
+*Calcineurin inhibitors*
+- Cyclosporine (CsA)
+- tacrolimus
+
+_Inhibit phosphatase required for nuclear translocation of NFAT_. Recall
+calcium dependent serine phosphotase. TCR increases calcium concentrations in
+the cytoplasm.
+
+*mTOR inhibitors*
+- Sirolimus (Rapamycin)
+
+- Downstream of IL-2/CD25 signaling
+- CD25 -> mTOR -> cyclin/CDK
+
+*Antiproliferative drugs*
+
+- azathioprine. _Inhibits purine synthesis, blocking replication_
+- mycophenolate. _Inosine monophosphate dehyrogenase_
+
+*Corticosteroids*
+
+- Prednisone
+Think of major function as downregulating eg. IL-2, for proliferation
+
+### GVHD
+
+- Remove host T cells with chemo / radiation
+- Introduce marrow graft
+- Mature lymphocytes in donor marrow attack
+
+Can be demonstrated with *MLR*
+
+In leukemia patients, GVH is actually good for clearing cancerous lymphocytes
+*graft-versus-leukemia* effect
+
+One strategy is _donor_ T cell depletion. But can cause immunodefficiency +
+opportunistic infection if overboard. Also might be bad for GVHD.
+
+Rather than depleting T cells, deplete the APCs. Still functional immunity.
+Graft-vs-leukemia more unclear.
+
+### T_regs
+
+Supplementing CD25+ T_reg reduces symptoms or even prevents death from GVHD
+
+(Though conventional T cells will express CD25 when activated, persistent high
+CD25 expression is a hallmark of T_reg.)
+
+(Anergic T cells lack CD28 expression)
+
+### Why does the fetus not get rejected
+
+- physical separation of T cells from mother by _trophoblast_ (placenta outer
+layer)
+- No MHC II + Limited MHC I
+- Nutrient depletion (IDO)
+- Regulatory cytokines - TGF-\beta + IL-10. (iT_res might have evolved from
+maternal tolerance)
+- Stromal cells of decidua

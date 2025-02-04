@@ -29,9 +29,7 @@ Janeway's Immunobiology
 13. [Failures of Host Defense Mechanisms](./13_failures_of_host_defense.md) 
 14. [Allergy and Allergic Disease](./14_allergy_and_allergic_defense.md)
 15. [Autoimmunity and Transplantation](./15_autoimmunity_transplantation.md)
-16. Manipulation of the Immune Response
-
-##
+16. [Manipulation of the Immune Response](./16_manipulation_of_immune_response.md)
 
 ## Notes
 
