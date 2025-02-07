@@ -499,26 +499,18 @@ Immunosuppression can lead to infection or cancer
 #### Some autoimmune drugs
 
 *Cell surface antibodies*
-- Rabbit anti-thymocyte globulin (rATG). Polyclonal molcules made in rabbits
-against human T cells.
-- anti-CD52 (_alemtuzumab_). Mature lymphocytes (eg. T / B / NK) marker for
-depletion.
+- Rabbit anti-thymocyte globulin (rATG). Polyclonal molcules made in rabbits against human T cells.
+- anti-CD52 (_alemtuzumab_). Mature lymphocytes (eg. T / B / NK) marker for depletion.
 - anti-CD3 (_muromonab_). Binds to TCR-CD3 complex for depletion.
-- anti-CD25 (_basiliximab_). IL-2 mediated proliferation
-(proliferation/survival pathway).
-- CTLA-4-Ig Fusion (_belatacept_). CTLA-4 binds B7, competing with CD28 on T
-cells. Ig region is for stability of long half-life in blood.
+- anti-CD25 (_basiliximab_). IL-2 mediated proliferation (proliferation/survival pathway).
+- CTLA-4-Ig Fusion (_belatacept_). CTLA-4 binds B7, competing with CD28 on T cells. Ig region is for stability of long half-life in blood.
 
-
-Target/Mechanism: Soluble CTLA-4 linked to an Ig Fc region; binds B7 (CD80/86) on antigen-presenting cells, blocking the CD28 co-stimulatory signal to T cells.
 
 *Calcineurin inhibitors*
 - Cyclosporine (CsA)
 - tacrolimus
 
-_Inhibit phosphatase required for nuclear translocation of NFAT_. Recall
-calcium dependent serine phosphotase. TCR increases calcium concentrations in
-the cytoplasm.
+_Inhibit phosphatase required for nuclear translocation of NFAT_. Recall calcium dependent serine phosphotase. TCR increases calcium concentrations in the cytoplasm.
 
 *mTOR inhibitors*
 - Sirolimus (Rapamycin)
@@ -534,6 +526,7 @@ the cytoplasm.
 *Corticosteroids*
 
 - Prednisone
+
 Think of major function as downregulating eg. IL-2, for proliferation
 
 ### GVHD
@@ -566,8 +559,8 @@ CD25 expression is a hallmark of T_reg.)
 
 - physical separation of T cells from mother by _trophoblast_ (placenta outer
 layer)
-- No MHC II + Limited MHC I
+- No MHC II + Limited MHC I on trophoblast
 - Nutrient depletion (IDO)
 - Regulatory cytokines - TGF-\beta + IL-10. (iT_res might have evolved from
-maternal tolerance)
+maternal tolerance) in environment
 - Stromal cells of decidua
