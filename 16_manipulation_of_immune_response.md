@@ -199,4 +199,160 @@ this.
 
 ### Antibodies for autoimmune
 
-## Vaccination
+#### Cytokines
+
+TNF-\alpha:
+
+mAB
+- *infliximab*
+- *adalimumab*
+
+*etanercept*: TNF receptor subunit-Fc fusion
+
+CD, ankylosing spondylitis, psoriatic arthropathy
+
+IL-1
+
+*ankira*: recombinant protein blocking IL-1 receptor
+Muckle-Wells, RA
+
+IL-6
+*tocilizumab*
+
+INF-\beta
+Straight up cytokine: *Avonex*
+How does it work?
+- inhibits components of inflammasome (cleave Il-1 pro-protein)
+- reduces expression of IL-1 pro-protein
+
+#### Migration
+
+integrin \alpha_4:\beta_1 (VLA-4) (binds to VCAM-1)
+
+integrin \alpha_4:\beta_7 (binds to MAdCAM-1)
+
+*natalizumab* specific for \alpha_4, inhibits both
+CD, MS
+
+But causes infection, including brain JC virus
+
+#### Costims
+
+CD28 (and B7 or CTLA-4)
+*abatacept* - CTLA-4-Ig
+RA, psoriasis
+
+CD2 (CD58 or Lymphocyte Functioning Antigen, LFA-3)
+*alefacept* - CD58-IgG1
+
+#### Statins
+
+- Inhibits HMG-CoA reductase, reducing liver cholesterol biosynthesis
+-Somehow increases MHC-II expression on lymphocytes, likely due to lipid
+concentration changes in cell membrane
+
+#### Vitamin D_3
+
+Bind to Vitamin D Receptors, which become TFs for a range of cytokines: IL-12
+(DC), IL-2 + IFN-\gamma (CD4).
+
+The doses needed cause hypercalcemia and bone resorption. Investaging
+alternatives.
+
+#### Using antigens
+
+- Small amounts of allergens shift response from IgE to IgG/IgA
+
+- Oral ingestion of antigens in mice has shifted CD4 autoimmmune response to
+T_regs
+- Limited success in people
+
+Rather than oral ingestion:
+
+- *Copaxone* contains 4 amino acids in ratios that mimic MBP (myelin basic
+protein). It induces T_H2 response + reduces relapse by 30%
+- "altered peptide ligands"
+
+## Cancer
+
+### IO developed after mouse models
+
+*Congenic mice*: Identical except for single genetic region
+Historically, MHC-congenic strains developed after induction of tumor.
+
+*Syngeneic tumor* (genetically identical donor) always grow differently.
+Introduction of irradiated tumor cells confer some immune response, specific to
+tumor.
+*Tumor rejection antigens*
+
+### Mechanisms of tumor escape
+
+- Paul Ehrlich, 1908 Noble Prize, first to suggest immune system kills cancer
+- Frank Burnet + Lewis Thomas, 1960 NP, formulated 'immune surveillance':
+
+Elimination -> Equilibrium -> Escape
+
+Evidence:
+
+- Mice: lacking perforin (lymphomas), lacking RAG + STAT1 (gut epithelial +
+breast), lacking gamma/delta (skin cancer)
+- Transplant: melonoma develop 1/2 years after kidney transplant,
+*post-transplant lymphoproliferative disorder* from unsuppressed EBV expansion
+
+1/ Loss of antigen: mutations prevent expression of antigens in the first place
+2/ Treated as self-antigen: antigens presented with lack of co-stims tolerize T cells
+3/ Low immunogenicity: lose MHC expression, adhesion molecules, co0stims
+4/ Immunosuppresive molecules: TGF-\beta (discovered in this context, hence
+name), IL-10 (suppressive, eg. DC in gut), IDO (degrades tryptophan), PD-L1
+5/ Physical barrier
+
+*MDSC*s (Myeloid Derived Suppressor Cells): pathologically activated immature
+myeloid cells. Suppress different lymphocytes. Accumulate in TME.
+
+### Classes of rejection antigens
+
+- *Neoantigens*: Point mutations to existing binders/allow new proteins to bind to MHC
+- *cancer-testis*: Usually expressed in male germ cells without MHC. Cancer can
+start expressing them, eg. *MAGE* (melanoma-associated antigens). ex: NY-ESO-1
+(New York esophageal squamous cell carcinoma-1)
+- *tissue differentiation antigen*: eg. CD19 B cell
+- *overexpression antigen*: HER-2/neu 
+- *abnormal PTM*: underglycosylated mucin
+- *skipped introns*: 
+- *viral oncogenes*: HPV in cervical carcinoma
+
+
+#### A look at melanoma specific antigens
+
+- tyrosinase (melanin production pathway)
+glycoproteins:
+- gp100
+- gp75
+- MART1
+
+Melanin is synthesized in special organelles called melanosomes and distributed
+across keratinocytes.
+
+#### Philadelphia chromosome
+
+Piece of chrom 9 (ABL) breaks of and attaches to chrom 22 (BCR).
+
+Bcr allows Abl (non receptor kinase) to bind to itself. Constitutively active
+molecule leads to growth / proliferation and *Chronic Myeloid Leukemia*.
+
+You can then identify reactive T-cells to Bcr-Abl using tetramers (
+
+#### Allografts
+
+Expose donor lymphocyte infusion to leukemia specific peptides in-vivo for an
+increased leukemia killing + potentially less graft-vs-host response.
+
+### Structure of a CAR
+
+ALL (acute lymphoid leukemia)
+
+1/ CD19 
+2/ 3 ITAMs from zeta chain of CD3
+3/ 4-1BB (TNF)
+
+*Can achieve complete clinical remissions with ALL!*
