@@ -356,3 +356,167 @@ ALL (acute lymphoid leukemia)
 3/ 4-1BB (TNF)
 
 *Can achieve complete clinical remissions with ALL!*
+
+### mABs used against cancer antigens
+
+- Competing with receptor ligand, preventing growth effect
+- Recruiting immune response to large molecule bound to cell
+
+*Herceptin* binding to *HER-2/neu* is a flagship example
+
+Problems?
+
+- Inefficient killing of cells after bound
+- Hard to penetrate solid tumor
+- Soluble antigens mopping up antibody
+
+Different types of conjugation:
+
+- Immunotoxins (usually a protein toxin)
+- ADCs (usually small molecule cytotoxin, disrupting DNA)
+- Radio
+- ADEPT
+
+
+## Vaccination
+
+- variolation from corpse pustule in medical literature for 1000s of years
+- Jenner - small pox vaccine. First to intentionally vaccinate with cowpox
+(-vacca)?
+- Pasteur, extended name in his honor with chicken cholera vaccine
+
+Most vaccines happen to be good because they stimulate neutralizing antibodies.
+But pathogens that require more complex response need better vaccines.
+
+Specific examples:
+
+1/ Malaria. Cycles between the liver and blood cells. Express different surface
+proteins. Hide inside cells.
+2/ Tuberculosis. Hides inside macrophages. Can be sequestered with granulomas
+but create latent, living disease.
+3/ HIV. Direct infection (and hiding) of T cell. High mutation. Latency.
+
+### Attenuated or killed
+
+- *attenuated*: reduced pathogenicity, eg. genetically modified that continues
+into present for malaria (no vaccines currently)
+- *killed*: vaccines can cause lethal responses, especially in immunosupressed 
+
+"Reverse immunogenetics" to identify candidate peptide antigens that activate
+innate sensors (eg. TLRs) as adjuvants
+
+1/ Infections are insufficient to generate protective immunity:
+
+- malaria
+- tuberculosis
+- HIV
+
+2/ Cost, storage, deploying vaccines in developing countries difficult
+
+### Most vaccines generate antibodies
+
+1/ Neutralize exotoxin produced by pathogen. Diphtheria + tetanus.
+2/ Neutralize pathogen itself to prevent re-infection.
+
+- Because of linked recognition, pathogens must have epitopes recognized by
+both T and B cells.
+
+### Properties of effective vaccines
+
+- Safe. Some can die from toxin or catch disease.
+- Work in large proportion of population.
+- Long lived. Must prime B + T cells.
+- Cheap.
+
+Herd immunity is possible but with large percentages of vaccinations.
+For mumps, estimated to be @ 80%.
+
+2004-2005 in UK saw uprise in mumps because MMR (mumps / measles / rubella) was
+swapped with just MR because of supply.
+
+### Measles / Mumps
+
+Both *paramyxovirus* species
+Enter from respiratory droplets into resp. tract.
+
+Measles: 
+1/ alveolar macrophages + dendritic cells -> lymph nodes -> T / B cells.
+2/ *primary viremia* enters blood stream with T / B cells
+3/ *secondary viremia* distributes to many organs
+
+Mumps:
+More localized to parotid glands.
+
+### Live attenuated viral vaccines
+
+Live viruses are more effective at recruiting active arms of immune system.
+Attenuation can be achieved by selection for growth in non-human cells.
+Pose risks to immunodeficient patients
+Recombinant viruses offer path forward
+
+### Live attenuated bacteria vaccines
+
+Passaged BCG. Over 13 years + 200 passages to lose infectivity.
+
+Malaria. Knockouts in sporozoites prevent transformation from liver to blood
+infection.
+
+### Route of ingestion matters
+
+Injection is not only expensive and difficult at scale, it does not mimic
+natural route of entry.
+
+Example: live attenuated polio developed by Sabin. Vaccine can also spread like
+normal virus in eg. fecal swimming pools.
+
+Also, Proteins bind to epithelial cells and are resistant to proteases make good
+adjuvants:
+- E. coli derived heat-labile toxin (HBT). Ex: introduce with oral tetanus
+toxin as adjuvant to build tolerance against lethal challenge.
+
+Counter example: influenza.
+Antibodies developed in mucus and systemically for upper and lower respiratory
+respectively. Lower respiratory is what causes death. Oral ingestion would only
+prevent mild illness from upper resp.
+
+### Bordetella pertussis
+
+Attenuated bacteria used to treat Whooping cough in early 1900s. 
+
+In 1972, Japan, whooping cough cases increased because of fear of encephalitis
+(brain swelling) pushed vaccination age from 3 months to 2 years.
+
+Lead to development of acellular vaccine: single protein component isolated +
+purified. More effective and without side effects.
+
+### Conjugate vaccines
+
+T cell independent (TI) antigens stimulate B cells without T cell help.
+
+Capsular polysaccharides (eg. meningococcus, pneumococcus) are such TI antigens
+and can be used on their own with adults.
+
+However young children (<2) cannot mount TI response:
+immature marginal zone B cells (the cells that handle TI), signaling pathways
+maturing.
+
+Cross link protein to carrier protein recognized by T cell.
+
+### Adjuvants
+
+- Adjuvant approved in specific vaccine use
+- Alum (aluminum salt) is the only adjuvant approved.
+- MF59 (oil-in-water emulsion)
+
+Trigger TLRs, NOD-like receptors, NLRP3
+
+### DNA vaccines
+
+Stable and safe, but weak response. Encoding cytokines helps.
+
+Trasnfecting directly in dendritic cells allows efficient presentation. Trials
+underway.
+
+### Vaccines can be used for existing chronic infections
+
+
