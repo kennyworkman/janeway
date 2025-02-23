@@ -321,7 +321,6 @@ start expressing them, eg. *MAGE* (melanoma-associated antigens). ex: NY-ESO-1
 - *skipped introns*: 
 - *viral oncogenes*: HPV in cervical carcinoma
 
-
 #### A look at melanoma specific antigens
 
 - tyrosinase (melanin production pathway)
@@ -340,7 +339,7 @@ Piece of chrom 9 (ABL) breaks of and attaches to chrom 22 (BCR).
 Bcr allows Abl (non receptor kinase) to bind to itself. Constitutively active
 molecule leads to growth / proliferation and *Chronic Myeloid Leukemia*.
 
-You can then identify reactive T-cells to Bcr-Abl using tetramers (
+You can then identify reactive T-cells to Bcr-Abl using tetramers
 
 #### Allografts
 
@@ -370,13 +369,26 @@ Problems?
 - Hard to penetrate solid tumor
 - Soluble antigens mopping up antibody
 
-Different types of conjugation:
+Different types of conjugation, either to mAB or just Fv fragment
 
-- Immunotoxins (usually a protein toxin)
-- ADCs (usually small molecule cytotoxin, disrupting DNA)
-- Radio
-- ADEPT
+- immunotoxins (usually a protein toxin): ricin A chain + Pseudomonas
+- small molecule
+- radioisotope
 
+- ADEPT (antibody directed enzyme / pro drug therapy)
+
+### Cancer Vaccines
+
+- 2005 clinical trial: HPV vacccines 100% effective in preventing cervical
+cancer
+- Similar mechanism with liver cancer and hepatitis
+
+### Checkpoint blockade
+
+- Trying to get tumor to express costims like B7 doesn't seem to work that well
+- CTLA-4. Expressed on activated conventional T cell + T_regs. Competes with
+CD28 for B7 ligands. Ipilimumab
+- PDL1. pembrolizumab.
 
 ## Vaccination
 
@@ -519,4 +531,10 @@ underway.
 
 ### Vaccines can be used for existing chronic infections
 
+1/ Obvious immune response but fails to eliminate
+- Helminth
+- Tuberculosis
+2/ Pathogen is "hiding"
+- HIV
+- herpes
 
